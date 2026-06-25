@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../nrmp-tech-library"
+		},
+		{
+			"path": "../.agent"
+		}
+	],
+	"settings": {}
+}
